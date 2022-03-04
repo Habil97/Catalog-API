@@ -1,0 +1,7 @@
+{
+    "yaml.schemas": {
+        "kubernetes://schema/apps/v1%40statefulset": "file:///c%3A/Users/Habil/projects/Catalog/Kubernetes/mongodb.yaml",
+        "https://ffizer.github.io/ffizer/ffizer.schema.json": "file:///c%3A/Users/Habil/projects/Catalog/Kubernetes/catalog.yaml"
+    },
+    "dotnet-test-explorer.testProjectPath": "**/*Test.csproj"
+}
